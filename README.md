@@ -26,3 +26,8 @@ Previous lesson:
 stolbitsa.com/fistachka/deer
 <br><br>
 
+
+![2](https://github.com/user-attachments/assets/2e99b300-31ae-4df8-82d3-cda1f52094d5)
+![1](https://github.com/user-attachments/assets/6868dc6f-04c4-41d8-a787-47627ebd669c)
+
+
