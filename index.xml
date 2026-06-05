@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>dominant-again</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="stolbitsa" repo="dominant"/>
   <readme>
-    <ru>1078ba3ce5ab79df456dd581624ceeea4d936508a45fad6ef69dad6fb9376d9a</ru>
-    <en>dbf684cca75721afec1707e15707db79a39615a6688faae2889b27ed099e2285</en>
+    <ru>536dc7e44a94149484080a1556bec2cc8ecbb730c37742b2610699865fa2c06c</ru>
+    <en>761a3bb1af580f48c4192dfcdb07649329d721daac74f0d8126585c30f237aee</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
